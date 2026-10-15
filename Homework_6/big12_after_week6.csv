@@ -1,0 +1,147 @@
+season,week,date,home,home_pts,away,away_pts,neutral,completed
+2025,7,2025-10-12,Arizona,27.0,BYU,33.0,0,1
+2025,13,2025-11-22,Arizona,41.0,Baylor,17.0,0,1
+2025,11,2025-11-08,Arizona,24.0,Kansas,20.0,0,1
+2025,3,2025-09-13,Arizona,23.0,Kansas State,17.0,0,1
+2025,6,2025-10-04,Arizona,41.0,Oklahoma State,13.0,0,1
+2025,14,2025-11-29,Arizona State,7.0,Arizona,23.0,0,1
+2025,9,2025-10-26,Arizona State,16.0,Houston,24.0,0,1
+2025,5,2025-09-27,Arizona State,27.0,TCU,24.0,0,1
+2025,8,2025-10-18,Arizona State,26.0,Texas Tech,22.0,0,1
+2025,12,2025-11-15,Arizona State,25.0,West Virginia,23.0,0,1
+2025,12,2025-11-16,BYU,44.0,TCU,13.0,0,1
+2025,14,2025-11-29,BYU,41.0,UCF,21.0,0,1
+2025,8,2025-10-19,BYU,24.0,Utah,21.0,0,1
+2025,6,2025-10-04,BYU,38.0,West Virginia,24.0,0,1
+2025,4,2025-09-20,Baylor,24.0,Arizona State,27.0,0,1
+2025,14,2025-11-29,Baylor,24.0,Houston,31.0,0,1
+2025,6,2025-10-04,Baylor,35.0,Kansas State,34.0,0,1
+2025,10,2025-11-01,Baylor,30.0,UCF,3.0,0,1
+2025,12,2025-11-16,Baylor,28.0,Utah,55.0,0,1
+2025,12,2025-11-15,Cincinnati,24.0,Arizona,30.0,0,1
+2025,13,2025-11-23,Cincinnati,14.0,BYU,26.0,0,1
+2025,9,2025-10-25,Cincinnati,41.0,Baylor,20.0,0,1
+2025,6,2025-10-04,Cincinnati,38.0,Iowa State,30.0,0,1
+2025,7,2025-10-11,Cincinnati,20.0,UCF,11.0,0,1
+2025,10,2025-11-01,Colorado,17.0,Arizona,52.0,0,1
+2025,13,2025-11-23,Colorado,17.0,Arizona State,42.0,0,1
+2025,5,2025-09-28,Colorado,21.0,BYU,24.0,0,1
+2025,7,2025-10-11,Colorado,24.0,Iowa State,17.0,0,1
+2025,8,2025-10-18,Houston,31.0,Arizona,28.0,0,1
+2025,3,2025-09-12,Houston,36.0,Colorado,20.0,0,1
+2025,13,2025-11-22,Houston,14.0,TCU,17.0,0,1
+2025,6,2025-10-04,Houston,11.0,Texas Tech,35.0,0,1
+2025,10,2025-11-01,Houston,35.0,West Virginia,45.0,0,1
+2025,5,2025-09-27,Iowa State,39.0,Arizona,14.0,0,1
+2025,10,2025-11-01,Iowa State,19.0,Arizona State,24.0,0,1
+2025,9,2025-10-25,Iowa State,27.0,BYU,41.0,0,1
+2025,13,2025-11-22,Iowa State,38.0,Kansas,14.0,0,1
+2025,5,2025-09-27,Kansas,34.0,Cincinnati,37.0,0,1
+2025,9,2025-10-25,Kansas,17.0,Kansas State,42.0,0,1
+2025,10,2025-11-01,Kansas,38.0,Oklahoma State,21.0,0,1
+2025,14,2025-11-28,Kansas,21.0,Utah,31.0,0,1
+2025,4,2025-09-20,Kansas,41.0,West Virginia,10.0,0,1
+2025,14,2025-11-29,Kansas State,24.0,Colorado,14.0,0,1
+2025,1,2025-08-23,Kansas State,21.0,Iowa State,24.0,1,1
+2025,7,2025-10-11,Kansas State,41.0,TCU,28.0,0,1
+2025,10,2025-11-01,Kansas State,20.0,Texas Tech,43.0,0,1
+2025,5,2025-09-27,Kansas State,34.0,UCF,20.0,0,1
+2025,5,2025-09-27,Oklahoma State,27.0,Baylor,45.0,0,1
+2025,8,2025-10-19,Oklahoma State,17.0,Cincinnati,49.0,0,1
+2025,7,2025-10-11,Oklahoma State,17.0,Houston,39.0,0,1
+2025,14,2025-11-29,Oklahoma State,13.0,Iowa State,20.0,0,1
+2025,12,2025-11-15,Oklahoma State,6.0,Kansas State,14.0,0,1
+2025,8,2025-10-18,TCU,42.0,Baylor,36.0,0,1
+2025,14,2025-11-29,TCU,45.0,Cincinnati,23.0,0,1
+2025,6,2025-10-04,TCU,35.0,Colorado,21.0,0,1
+2025,11,2025-11-08,TCU,17.0,Iowa State,20.0,0,1
+2025,11,2025-11-08,Texas Tech,29.0,BYU,7.0,0,1
+2025,15,2025-12-06,Texas Tech,34.0,BYU,7.0,1,1
+2025,7,2025-10-11,Texas Tech,42.0,Kansas,17.0,0,1
+2025,9,2025-10-25,Texas Tech,42.0,Oklahoma State,0.0,0,1
+2025,12,2025-11-15,Texas Tech,48.0,UCF,9.0,0,1
+2025,11,2025-11-08,UCF,27.0,Houston,30.0,0,1
+2025,6,2025-10-04,UCF,20.0,Kansas,27.0,0,1
+2025,13,2025-11-22,UCF,17.0,Oklahoma State,14.0,0,1
+2025,8,2025-10-18,UCF,45.0,West Virginia,13.0,0,1
+2025,7,2025-10-12,Utah,42.0,Arizona State,10.0,0,1
+2025,10,2025-11-02,Utah,45.0,Cincinnati,14.0,0,1
+2025,9,2025-10-26,Utah,53.0,Colorado,7.0,0,1
+2025,13,2025-11-22,Utah,51.0,Kansas State,47.0,0,1
+2025,4,2025-09-20,Utah,10.0,Texas Tech,34.0,0,1
+2025,11,2025-11-08,West Virginia,29.0,Colorado,22.0,0,1
+2025,9,2025-10-25,West Virginia,17.0,TCU,23.0,0,1
+2025,14,2025-11-29,West Virginia,0.0,Texas Tech,49.0,0,1
+2025,5,2025-09-27,West Virginia,14.0,Utah,48.0,0,1
+2026,13,2026-11-28,Arizona,,Arizona State,,0,0
+2026,5,2026-10-04,Arizona,34.0,Cincinnati,7.0,0,1
+2026,8,2026-10-24,Arizona,,Iowa State,,0,0
+2026,10,2026-11-07,Arizona,,TCU,,0,0
+2026,11,2026-11-14,Arizona,,Utah,,0,0
+2026,5,2026-10-04,Arizona State,19.0,Baylor,55.0,0,1
+2026,10,2026-11-07,Arizona State,,Colorado,,0,0
+2026,8,2026-10-24,Arizona State,,Kansas State,,0,0
+2026,12,2026-11-21,Arizona State,,Oklahoma State,,0,0
+2026,2,2026-09-12,BYU,28.0,Arizona,17.0,0,1
+2026,9,2026-10-31,BYU,,Arizona State,,0,0
+2026,11,2026-11-14,BYU,,Baylor,,0,0
+2026,13,2026-11-28,BYU,,Cincinnati,,0,0
+2026,6,2026-10-10,BYU,24.0,Iowa State,10.0,0,1
+2026,4,2026-09-26,Baylor,23.0,Colorado,13.0,0,1
+2026,10,2026-11-07,Baylor,,Iowa State,,0,0
+2026,7,2026-10-17,Baylor,,TCU,,0,0
+2026,12,2026-11-21,Baylor,,Texas Tech,,0,0
+2026,12,2026-11-21,Cincinnati,,Colorado,,0,0
+2026,4,2026-09-26,Cincinnati,31.0,Kansas State,26.0,0,1
+2026,8,2026-10-24,Cincinnati,,Texas Tech,,0,0
+2026,9,2026-10-31,Cincinnati,,Utah,,0,0
+2026,11,2026-11-14,Colorado,,Houston,,0,0
+2026,9,2026-10-31,Colorado,,Kansas State,,0,0
+2026,5,2026-10-03,Colorado,7.0,Texas Tech,29.0,0,1
+2026,13,2026-11-28,Colorado,,UCF,,0,0
+2026,7,2026-10-17,Colorado,,Utah,,0,0
+2026,13,2026-11-28,Houston,,Baylor,,0,0
+2026,10,2026-11-07,Houston,,Cincinnati,,0,0
+2026,7,2026-10-17,Houston,,Oklahoma State,,0,0
+2026,5,2026-10-03,Houston,27.0,UCF,17.0,0,1
+2026,11,2026-11-14,Iowa State,,Cincinnati,,0,0
+2026,13,2026-11-28,Iowa State,,Kansas State,,0,0
+2026,9,2026-10-31,Iowa State,,Oklahoma State,,0,0
+2026,4,2026-09-26,Iowa State,17.0,Utah,31.0,0,1
+2026,5,2026-10-03,Iowa State,45.0,West Virginia,42.0,0,1
+2026,3,2026-09-19,Kansas,17.0,Arizona State,24.0,1,1
+2026,12,2026-11-21,Kansas,,BYU,,0,0
+2026,8,2026-10-24,Kansas,,Baylor,,0,0
+2026,10,2026-11-07,Kansas,,UCF,,0,0
+2026,12,2026-11-21,Kansas State,,Arizona,,0,0
+2026,6,2026-10-10,Kansas State,16.0,Houston,35.0,0,1
+2026,7,2026-10-17,Kansas State,,Kansas,,0,0
+2026,10,2026-11-07,Kansas State,,Oklahoma State,,0,0
+2026,8,2026-10-24,Oklahoma State,,Colorado,,0,0
+2026,13,2026-11-28,Oklahoma State,,Kansas,,0,0
+2026,11,2026-11-14,Oklahoma State,,Texas Tech,,0,0
+2026,6,2026-10-10,Oklahoma State,42.0,UCF,28.0,0,1
+2026,5,2026-10-03,TCU,10.0,BYU,17.0,0,1
+2026,9,2026-10-31,TCU,,Kansas,,0,0
+2026,11,2026-11-14,TCU,,Kansas State,,0,0
+2026,12,2026-11-21,TCU,,Utah,,0,0
+2026,8,2026-10-24,TCU,,West Virginia,,0,0
+2026,9,2026-10-31,Texas Tech,,Arizona,,0,0
+2026,7,2026-10-17,Texas Tech,,Arizona State,,0,0
+2026,3,2026-09-19,Texas Tech,28.0,Houston,26.0,0,1
+2026,13,2026-11-27,Texas Tech,,TCU,,0,0
+2026,10,2026-11-07,Texas Tech,,West Virginia,,0,0
+2026,11,2026-11-14,UCF,,Arizona State,,0,0
+2026,8,2026-10-24,UCF,,BYU,,0,0
+2026,9,2026-10-30,UCF,,Baylor,,0,0
+2026,12,2026-11-20,UCF,,Iowa State,,0,0
+2026,4,2026-09-26,UCF,21.0,TCU,13.0,0,1
+2026,10,2026-11-07,Utah,,BYU,,0,0
+2026,8,2026-10-24,Utah,,Houston,,0,0
+2026,6,2026-10-11,Utah,41.0,Kansas,24.0,0,1
+2026,13,2026-11-28,Utah,,West Virginia,,0,0
+2026,6,2026-10-10,West Virginia,31.0,Arizona,52.0,0,1
+2026,7,2026-10-17,West Virginia,,Cincinnati,,0,0
+2026,12,2026-11-21,West Virginia,,Houston,,0,0
+2026,11,2026-11-14,West Virginia,,Kansas,,0,0
+2026,4,2026-09-26,West Virginia,24.0,Oklahoma State,41.0,0,1
