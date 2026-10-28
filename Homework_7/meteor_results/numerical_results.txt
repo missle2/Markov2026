@@ -1,0 +1,49 @@
+Meteor Poisson process: rate 4 per hour; 200,000 trials per construction
+P(N(0.25)=0) = 0.367879441
+P(T3>1) = P(N(1)<=2) = 0.238103306
+P(N(0.5)=0 | N(1)=3) = 0.125
+E[T1 | N(1)=3] = 0.25 h = 15 min
+Theoretical E[N(1)] = Var[N(1)] = 4
+Theoretical corr(N(0.5), N(1)-N(0.5)) = 0
+Theoretical E[T3] = 0.750000 h, simulation mean T3 = 0.750989 h
+Theoretical P(T3>1) = 0.23810331, simulation P(T3>1) = 0.23941500
+
+Exponential gaps
+  mean_N1: 3.989060000
+  sample_variance_N1: 3.988820261
+  num_N1_equals_3: 39093
+  P_Nhalf_0_given_N1_3: 0.123807331
+  mean_T1_given_N1_3_hours: 0.249708616
+  corr_first_and_second_half: 0.001828569
+  mean_first_half: 1.994850000
+  mean_second_half: 1.994210000
+
+Poisson count + uniforms
+  mean_N1: 3.989445000
+  sample_variance_N1: 3.992753556
+  num_N1_equals_3: 39299
+  P_Nhalf_0_given_N1_3: 0.125143133
+  mean_T1_given_N1_3_hours: 0.250833467
+  corr_first_and_second_half: -0.001254439
+  mean_first_half: 1.994100000
+  mean_second_half: 1.995345000
+
+Log-log TV fit over all 13 dt values: slope = 1.0345241
+Log-log TV fit dt <= 0.01: slope = 1.0063473
+TV at dt=0.1: 0.12672565
+TV at dt=0.0005: 0.0005019641
+
+Time-step values and TV distances:
+  0.1	0.1267256488
+  0.06666667	0.0776955428
+  0.05	0.0560000514
+  0.04	0.0437753285
+  0.025	0.0264527357
+  0.02	0.0209312276
+  0.0125	0.0128715281
+  0.01	0.0102423424
+  0.005	0.0050672013
+  0.0025	0.0025203312
+  0.002	0.0020141559
+  0.001	0.0010049758
+  0.0005	0.0005019641

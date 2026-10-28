@@ -1,0 +1,4 @@
+step_size,acceptance_rate,iat_alpha,window_lag,has_50_iat_lengths
+0.02,0.96442,1858.3118036723604,9294,False
+0.5,0.36836,7.766745083492723,39,True
+5.0,0.00948,101.31201909895093,507,True

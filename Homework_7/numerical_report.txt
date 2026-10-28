@@ -1,0 +1,30 @@
+Exponential race: six independent students
+rates per hour: [3.0, 2.0, 1.5, 1.2, 1.0, 0.75]
+Total rate Lambda = 9.450000 / hour; E[first time] = 0.105820 hour
+Exact E[M] by 64-subset DP: 2.107376406 hours
+Exact E[M] by inclusion-exclusion: 2.107376406 hours
+Simulation E[M] from 200,000 exams: 2.106280811 hours
+Simulation standard error: 0.002795411 hours
+Simulation 95% Monte Carlo CI: [2.100801806, 2.111759817] hours
+Student | rate | first exact | first sim | last exact | last sim | first n | conditional first-time mean | SE
+      1 | 3.00 |   0.3174603 | 0.3185650 |  0.0267856 | 0.0271900 |   63713 |                   0.1069075 | 0.0004244
+      2 | 2.00 |   0.2116402 | 0.2107500 |  0.0695319 | 0.0699500 |   42150 |                   0.1054587 | 0.0005155
+      3 | 1.50 |   0.1587302 | 0.1585400 |  0.1229880 | 0.1231350 |   31708 |                   0.1054242 | 0.0005894
+      4 | 1.20 |   0.1269841 | 0.1260950 |  0.1812524 | 0.1818000 |   25219 |                   0.1073302 | 0.0006709
+      5 | 1.00 |   0.1058201 | 0.1062650 |  0.2409835 | 0.2406150 |   21253 |                   0.1062062 | 0.0007260
+      6 | 0.75 |   0.0793651 | 0.0797850 |  0.3584586 | 0.3573100 |   15957 |                   0.1059311 | 0.0008350
+k | exact E[M_k], rates lambda_i=i
+ 1 | 1.000000000
+ 2 | 1.166666667
+ 3 | 1.216666667
+ 4 | 1.236111111
+ 5 | 1.244902320
+ 6 | 1.249294638
+ 7 | 1.251652548
+ 8 | 1.252989225
+ 9 | 1.253780266
+10 | 1.254265050
+11 | 1.254570910
+12 | 1.254768696
+2 ln 2 upper bound: 1.386294361
+Approximate k -> infinity limit: 1.255197457 (quadrature estimated error: 6.29e-09)

@@ -1,0 +1,25 @@
+LIGHTHOUSE: REPRODUCIBLE NUMERICAL RESULTS
+Observed flashes: n=15, data mean=1.671333, data median=1.500000
+Metropolis: start=(0,0), moves=50000, burn-in=5000, IAT from remaining 45,000 alpha states
+IAT convention: tau_int=1+2*sum_{k>=1} rho_alpha(k); Sokal self-consistent window c=5
+s           acceptance    IAT_alpha    window_lag    >=50 tau?
+0.02         96.4420%      1858.31          9294      False
+0.5          36.8360%         7.77            39       True
+5             0.9480%       101.31           507       True
+Best proposal by lowest estimated IAT: s=0.5
+Posterior grid boundary mass (5-cell edge bands): 2.766e-14
+
+Posterior summary (equal-tailed 90% credible intervals, units km)
+                       mean                 5%                 95%
+MCMC   alpha           1.48246            1.02916            1.92367
+MCMC   beta            0.77096            0.37690            1.37011
+Grid   alpha           1.48272            1.02071            1.92315
+Grid   beta            0.77551            0.37209            1.37427
+
+2,000 simulated data sets per n; true (alpha, beta)=(1.5,0.8)
+n          IQR(mean)/1.349      IQR(median)/1.349
+10                 1.19433                0.39584
+100                1.20205                0.12836
+1000               1.14576                0.03957
+Theoretical scatter of sample mean for all n: 1.18606
+Asymptotic sample median SD: pi*beta/(2*sqrt(n))
